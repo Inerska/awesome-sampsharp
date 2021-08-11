@@ -21,6 +21,7 @@
 - [Official getting started](https://sampsharp.net/getting-started) - The official getting started tutorial. 
 
 ## Libraries & Extensions
-- [SampSharp streamer](https://github.com/ikkentim/SampSharp-streamer) - A wrapper of the popular SA-MP streamer plugin for SampSharp. 
+- [SampSharp streamer](https://github.com/ikkentim/SampSharp-streamer) - A wrapper of the popular SA-MP streamer plugin for SampSharp.
+- [Useful snippets](https://sampsharp.net/useful-snippets) - Official S# snippets.
 
 ## Tooling
